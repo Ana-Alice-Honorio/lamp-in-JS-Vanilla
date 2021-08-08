@@ -1,0 +1,42 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+button {
+  width: 80px;
+  background-color: yellowgreen;
+  border-radius: 20px;
+}
+
+h1 {
+  color:white;
+  font-size: xx-large;
+  align-self: center;
+  float: right;
+  margin-top: 2px;
+}
+
+#cabecalho {
+  background-color: black;
+  position: center;
+  left:20px;
+  right:20px;
+  height:20px;
+}
+
+section {
+  position:fixed;
+  left: 0%;
+  right: 0%;
+  top: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 90px;
+}
