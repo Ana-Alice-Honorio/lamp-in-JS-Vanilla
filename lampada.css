@@ -12,15 +12,14 @@ button {
 }
 
 h1 {
-  color:white;
+  color: black;
   font-size: xx-large;
-  align-self: center;
-  float: right;
-  margin-top: 2px;
+  align-items: center;
+  margin-top: 4px;
 }
 
 #cabecalho {
-  background-color: black;
+  background-color: yellowgreen;
   position: center;
   left:20px;
   right:20px;
